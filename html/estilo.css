@@ -1,0 +1,42 @@
+body {
+    background-color: #e8f0fe;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  main {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #2a7ae2;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  
+  .redes-sociales {
+    margin-top: 15px;
+  }
+  
+  .redes-sociales a {
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  header, footer {
+    background-color: #1b1b1b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+  main {
+    padding: 20px;
+  }
+  
+  
